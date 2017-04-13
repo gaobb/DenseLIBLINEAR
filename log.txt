@@ -1,0 +1,607 @@
+haha
+..**.
+optimization finished, #iter = 14
+Objective value = -32.179156
+nSV = 116
+
+training the 34th linear svm model in 489 MilliSeconds
+*
+optimization finished, #iter = 17
+Objective value = -26.613119
+nSV = 101
+
+training the 40th linear svm model in 9 MilliSeconds
+..
+optimization finished, #iter = 18
+Objective value = -34.764264
+nSV = 122
+
+training the 49th linear svm model in 39 MilliSeconds
+*..***...
+optimization finished, #iter = 19
+Objective value = -23.061912
+nSV = 102
+
+training the 4th linear svm model in 56 MilliSeconds
+.***.
+optimization finished, #iter = 15
+Objective value = -16.433671
+nSV = 80
+
+training the 58th linear svm model in 35 MilliSeconds
+*
+optimization finished, #iter = 18
+Objective value = -37.017529
+nSV = 121
+
+training the 64th linear svm model in 2 MilliSeconds
+
+optimization finished, #iter = 17
+Objective value = -28.828920
+nSV = 116
+
+training the 97th linear svm model in 14 MilliSeconds
+..*..**
+optimization finished, #iter = 16
+Objective value = -26.487617
+nSV = 105
+
+training the 73th linear svm model in 29 MilliSeconds
+
+optimization finished, #iter = 16
+Objective value = -26.028448
+nSV = 111
+
+training the 16th linear svm model in 2 MilliSeconds
+
+optimization finished, #iter = 16
+Objective value = -22.191780
+nSV = 117
+
+training the 76th linear svm model in 8 MilliSeconds
+**
+optimization finished, #iter = 17
+Objective value = -30.221958
+nSV = 123
+
+training the 67th linear svm model in 11 MilliSeconds
+.
+optimization finished, #iter = 14
+Objective value = -40.009520
+nSV = 147
+
+training the 88th linear svm model in 42 MilliSeconds
+
+optimization finished, #iter = 15
+Objective value = -34.883338
+nSV = 130
+
+training the 13th linear svm model in 10 MilliSeconds
+.*
+optimization finished, #iter = 17
+Objective value = -38.322333
+nSV = 149
+
+training the 10th linear svm model in 12 MilliSeconds
+.****.
+optimization finished, #iter = 18
+Objective value = -19.360040
+nSV = 95
+
+training the 85th linear svm model in 82 MilliSeconds
+
+optimization finished, #iter = 15
+Objective value = -44.021007
+nSV = 113
+
+training the 55th linear svm model in 2 MilliSeconds
+
+optimization finished, #iter = 16
+Objective value = -50.921854
+nSV = 159
+
+training the 28th linear svm model in 22 MilliSeconds
+*.....**.
+optimization finished, #iter = 15
+Objective value = -29.168127
+nSV = 95
+*
+training the 91th linear svm model in 37 MilliSeconds
+**.*.
+optimization finished, #iter = 15
+Objective value = -24.173094
+nSV = 90
+
+training the 41th linear svm model in 34 MilliSeconds
+..*.
+optimization finished, #iter = 16
+Objective value = -36.905347
+nSV = 132
+
+training the 35th linear svm model in 13 MilliSeconds
+**....
+optimization finished, #iter = 17
+Objective value = -40.304662
+nSV = 117
+
+training the 52th linear svm model in 21 MilliSeconds
+*.***.
+optimization finished, #iter = 15
+Objective value = -28.967591
+nSV = 109
+*
+optimization finished, #iter = 15
+Objective value = -27.630818
+nSV = 85
+
+training the 50th linear svm model in 26 MilliSeconds
+
+training the 70th linear svm model in 26 MilliSeconds
+*
+optimization finished, #iter = 14
+Objective value = -31.296561
+nSV = 115
+
+training the 22th linear svm model in 8 MilliSeconds
+
+optimization finished, #iter = 16
+Objective value = -29.548381
+nSV = 98
+
+training the 31th linear svm model in 7 MilliSeconds
+**
+optimization finished, #iter = 17
+Objective value = -20.579868
+nSV = 87
+
+training the 5th linear svm model in 10 MilliSeconds
+.
+optimization finished, #iter = 17
+Objective value = -43.596185
+nSV = 109
+
+training the 25th linear svm model in 8 MilliSeconds
+*
+optimization finished, #iter = 19
+Objective value = -48.475883
+nSV = 122
+
+training the 61th linear svm model in 5 MilliSeconds
+
+optimization finished, #iter = 16
+Objective value = -35.963101
+nSV = 121
+
+training the 37th linear svm model in 14 MilliSeconds
+*
+optimization finished, #iter = 18
+Objective value = -30.876332
+
+optimization finished, #iter = 16
+nSV = 117
+Objective value = -35.322052
+nSV = 124
+
+training the 94th linear svm model in 34 MilliSeconds
+
+training the 43th linear svm model in 34 MilliSeconds
+
+optimization finished, #iter = 13
+Objective value = -46.630630
+nSV = 177
+
+training the 7th linear svm model in 4 MilliSeconds
+
+optimization finished, #iter = 17
+Objective value = -47.781231
+nSV = 146
+
+training the 82th linear svm model in 10 MilliSeconds
+
+optimization finished, #iter = 15
+Objective value = -26.473513
+nSV = 131
+
+training the 79th linear svm model in 1 MilliSeconds
+
+optimization finished, #iter = 14
+Objective value = -33.994504
+nSV = 163
+
+training the 46th linear svm model in 14 MilliSeconds
+.
+optimization finished, #iter = 20
+Objective value = -38.709999
+nSV = 123
+
+training the 19th linear svm model in 2 MilliSeconds
+
+optimization finished, #iter = 16
+Objective value = -44.810245
+nSV = 156
+
+training the 100th linear svm model in 35 MilliSeconds
+...***..*
+optimization finished, #iter = 21
+Objective value = -22.347121
+nSV = 99
+
+training the 65th linear svm model in 144 MilliSeconds
+*.
+optimization finished, #iter = 18
+Objective value = -41.768740
+nSV = 115
+
+training the 59th linear svm model in 16 MilliSeconds
+*.
+optimization finished, #iter = 17
+Objective value = -49.553928
+nSV = 142
+
+training the 1th linear svm model in 20 MilliSeconds
+...
+optimization finished, #iter = 14
+Objective value = -42.780022
+nSV = 122
+
+training the 98th linear svm model in 13 MilliSeconds
+**.
+optimization finished, #iter = 14
+Objective value = -42.067042
+nSV = 161
+
+training the 17th linear svm model in 16 MilliSeconds
+.*.****.
+optimization finished, #iter = 14
+Objective value = -44.069792
+nSV = 161
+
+training the 74th linear svm model in 25 MilliSeconds
+*
+optimization finished, #iter = 16
+Objective value = -30.981593
+nSV = 116
+
+training the 14th linear svm model in 33 MilliSeconds
+
+optimization finished, #iter = 15
+Objective value = -35.465787
+nSV = 117
+
+training the 77th linear svm model in 2 MilliSeconds
+..
+optimization finished, #iter = 17
+Objective value = -33.416274
+nSV = 115
+
+training the 51th linear svm model in 9 MilliSeconds
+
+optimization finished, #iter = 16
+Objective value = -34.681642
+nSV = 149
+
+training the 36th linear svm model in 12 MilliSeconds
+
+optimization finished, #iter = 15
+Objective value = -46.844620
+nSV = 171
+
+training the 68th linear svm model in 13 MilliSeconds
+
+optimization finished, #iter = 18
+Objective value = -19.538430
+nSV = 100
+
+training the 89th linear svm model in 8 MilliSeconds
+
+optimization finished, #iter = 16
+Objective value = -41.348251
+nSV = 123
+
+training the 42th linear svm model in 3 MilliSeconds
+
+optimization finished, #iter = 16
+Objective value = -44.224324
+nSV = 135
+
+training the 11th linear svm model in 9 MilliSeconds
+**..*.*
+optimization finished, #iter = 17
+Objective value = -36.094216
+nSV = 127
+
+training the 86th linear svm model in 67 MilliSeconds
+*
+optimization finished, #iter = 14
+Objective value = -49.120891
+nSV = 153
+
+training the 29th linear svm model in 43 MilliSeconds
+
+optimization finished, #iter = 14
+Objective value = -39.038680
+nSV = 90
+
+training the 56th linear svm model in 22 MilliSeconds
+
+optimization finished, #iter = 22
+Objective value = -22.490008
+nSV = 108
+
+training the 6th linear svm model in 8 MilliSeconds
+.*..*..*.*..
+optimization finished, #iter = 20
+Objective value = -35.053195
+nSV = 112
+*
+training the 92th linear svm model in 223 MilliSeconds
+
+optimization finished, #iter = 14
+Objective value = -47.874179
+nSV = 147
+
+training the 60th linear svm model in 3 MilliSeconds
+*.*..**
+optimization finished, #iter = 18
+Objective value = -25.367449
+nSV = 96
+
+training the 18th linear svm model in 52 MilliSeconds
+
+optimization finished, #iter = 16
+Objective value = -28.859363
+nSV = 95
+
+training the 66th linear svm model in 53 MilliSeconds
+..*.
+optimization finished, #iter = 16
+Objective value = -28.036104
+nSV = 119
+
+training the 53th linear svm model in 83 MilliSeconds
+*.
+optimization finished, #iter = 16
+Objective value = -35.111561
+nSV = 134
+
+training the 75th linear svm model in 7 MilliSeconds
+**.
+optimization finished, #iter = 15
+Objective value = -27.008521
+nSV = 129
+
+training the 62th linear svm model in 20 MilliSeconds
+
+optimization finished, #iter = 19
+Objective value = -35.373609
+nSV = 109
+
+training the 38th linear svm model in 6 MilliSeconds
+..*
+optimization finished, #iter = 15
+Objective value = -31.763550
+nSV = 127
+
+training the 12th linear svm model in 10 MilliSeconds
+*..*.
+optimization finished, #iter = 15
+Objective value = -45.896730
+nSV = 157
+
+training the 15th linear svm model in 30 MilliSeconds
+
+optimization finished, #iter = 16
+Objective value = -33.184403
+nSV = 110
+
+training the 71th linear svm model in 33 MilliSeconds
+..*.*.***
+optimization finished, #iter = 16
+Objective value = -22.174759
+nSV = 77
+
+training the 99th linear svm model in 35 MilliSeconds
+
+optimization finished, #iter = 15
+Objective value = -46.461692
+nSV = 171
+
+training the 23th linear svm model in 37 MilliSeconds
+*..*
+optimization finished, #iter = 15
+Objective value = -17.784997
+nSV = 83
+
+training the 32th linear svm model in 11 MilliSeconds
+*.**
+optimization finished, #iter = 16
+Objective value = -24.319648
+nSV = 92
+
+training the 26th linear svm model in 22 MilliSeconds
+
+optimization finished, #iter = 15
+Objective value = -39.972668
+nSV = 126
+
+training the 30th linear svm model in 0 MilliSeconds
+
+optimization finished, #iter = 17
+Objective value = -31.807780
+nSV = 117
+
+training the 78th linear svm model in 7 MilliSeconds
+*
+optimization finished, #iter = 16
+Objective value = -40.657454
+nSV = 104
+
+training the 80th linear svm model in 12 MilliSeconds
+
+optimization finished, #iter = 15
+Objective value = -46.709286
+nSV = 132
+
+training the 8th linear svm model in 25 MilliSeconds
+
+optimization finished, #iter = 15
+Objective value = -25.465687
+nSV = 105
+
+training the 90th linear svm model in 4 MilliSeconds
+
+optimization finished, #iter = 17
+Objective value = -21.347980
+nSV = 99
+
+training the 47th linear svm model in 12 MilliSeconds
+
+optimization finished, #iter = 17
+Objective value = -23.672639
+nSV = 92
+
+training the 101th linear svm model in 7 MilliSeconds
+
+optimization finished, #iter = 16
+Objective value = -10.326247
+nSV = 73
+
+training the 20th linear svm model in 16 MilliSeconds
+.
+optimization finished, #iter = 15
+Objective value = -34.564247
+nSV = 128
+
+training the 44th linear svm model in 9 MilliSeconds
+*
+optimization finished, #iter = 15
+Objective value = -46.106325
+nSV = 170
+
+training the 83th linear svm model in 24 MilliSeconds
+*
+optimization finished, #iter = 17
+Objective value = -24.511828
+nSV = 110
+
+training the 69th linear svm model in 20 MilliSeconds
+.*
+optimization finished, #iter = 19
+Objective value = -37.039254
+nSV = 131
+
+training the 87th linear svm model in 54 MilliSeconds
+.*
+optimization finished, #iter = 22
+Objective value = -20.736247
+nSV = 100
+
+training the 95th linear svm model in 113 MilliSeconds
+
+optimization finished, #iter = 16
+Objective value = -36.230658
+nSV = 72
+
+training the 2th linear svm model in 52 MilliSeconds
+.*.*
+optimization finished, #iter = 15
+Objective value = -39.955192
+nSV = 128
+
+training the 57th linear svm model in 195 MilliSeconds
+*.*
+optimization finished, #iter = 17
+Objective value = -20.843575
+nSV = 76
+
+training the 93th linear svm model in 283 MilliSeconds
+.*
+optimization finished, #iter = 15
+Objective value = -21.285267
+nSV = 95
+
+training the 39th linear svm model in 333 MilliSeconds
+..
+optimization finished, #iter = 15
+Objective value = -28.158734
+nSV = 94
+
+training the 54th linear svm model in 386 MilliSeconds
+**.*.*...
+optimization finished, #iter = 15
+Objective value = -21.386321
+nSV = 92
+
+training the 33th linear svm model in 475 MilliSeconds
+..*
+optimization finished, #iter = 15
+Objective value = -39.266327
+nSV = 129
+
+training the 45th linear svm model in 481 MilliSeconds
+.*****
+optimization finished, #iter = 15
+Objective value = -40.974302
+nSV = 132
+
+training the 24th linear svm model in 527 MilliSeconds
+
+optimization finished, #iter = 13
+Objective value = -41.703632
+nSV = 160
+
+training the 21th linear svm model in 535 MilliSeconds
+*
+optimization finished, #iter = 15
+Objective value = -31.075837
+nSV = 131
+
+training the 72th linear svm model in 558 MilliSeconds
+
+optimization finished, #iter = 14
+Objective value = -26.147120
+nSV = 111
+
+training the 9th linear svm model in 568 MilliSeconds
+
+optimization finished, #iter = 17
+Objective value = -30.877535
+nSV = 126
+
+training the 81th linear svm model in 568 MilliSeconds
+.*
+optimization finished, #iter = 18
+Objective value = -41.959530
+nSV = 139
+
+training the 63th linear svm model in 605 MilliSeconds
+*.*
+optimization finished, #iter = 16
+Objective value = -39.445185
+nSV = 113
+
+training the 84th linear svm model in 642 MilliSeconds
+
+optimization finished, #iter = 17
+Objective value = -49.150851
+nSV = 164
+
+training the 27th linear svm model in 653 MilliSeconds
+*.*
+optimization finished, #iter = 18
+Objective value = -30.069395
+nSV = 108
+
+training the 48th linear svm model in 695 MilliSeconds
+
+optimization finished, #iter = 19
+Objective value = -29.383011
+nSV = 118
+
+training the 3th linear svm model in 699 MilliSeconds
+
+optimization finished, #iter = 16
+Objective value = -47.629571
+nSV = 109
+
+training the 96th linear svm model in 734 MilliSeconds
